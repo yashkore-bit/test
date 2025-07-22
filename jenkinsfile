@@ -1,2 +1,4 @@
 Agent nay 
   stages:
+    stage:
+      pull code and test
